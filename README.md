@@ -42,6 +42,6 @@ The steps for such an analysis are as follows:
 - Python
 
 
-### Project Idea and Implementation by 
+## Project Idea and Implementation by 
 - [Khushi Shah](https://github.com/khushi2609)
 - [Kashvi Gandhi](https://github.com/kashvi05)
